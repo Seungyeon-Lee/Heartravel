@@ -1,0 +1,12 @@
+A middleware is a small program, which is switched between two components.
+For example, 
+
+1) between a request and the actual registration, 
+   in this case, a middelware validates the entered data. 
+
+유효성 검사, 데이터 검색 이외의 다른 기능을 담당하는 함수들. 
+
+** how to registrate a module 
+1) module.exports.aaa = function (a, b) { return a + b; }
+2) exports.aaa = function (a, b) { return a + b; }
+3) module.exports = { function, function, function, ... } 
