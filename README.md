@@ -2,6 +2,8 @@
 
 ### Pakacages
 서버 (가장 외부 폴더)와 프론트 (내부의 frontend 폴더)로 구성.
+Backend : Node.js
+Frontend : Vue.js
 
 ### How to run
 ```
