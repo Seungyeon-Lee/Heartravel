@@ -1,5 +1,12 @@
 # Heartravel
 
+### About Heartravel
+Heartravel 쇼핑몰과 어드민 페이지
+
+기획서: [heartravel_웹사이트_기획.pdf](https://github.com/Seungyeon-Lee/Heartravel/files/8885185/heartravel_._.pdf)
+
+디자인: https://scene.zeplin.io/project/5dcff933e3d2d2447ec32dad
+
 ### Pakacages
 서버 (가장 외부 폴더)와 프론트 (내부의 frontend 폴더)로 구성.
 
