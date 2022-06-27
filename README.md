@@ -7,6 +7,9 @@ Heartravel 쇼핑몰과 어드민 페이지
 
 디자인: https://scene.zeplin.io/project/5dcff933e3d2d2447ec32dad
 
+| <img src="https://user-images.githubusercontent.com/26589915/175933330-e5fe9d70-3583-4b99-908c-2de233a751ca.png" width="200">| <img src="https://user-images.githubusercontent.com/26589915/175934032-db83388e-81f9-4ff8-976f-a8c8891b6fd9.png" width="200"> | <img src="https://user-images.githubusercontent.com/26589915/175933346-d5e62b52-93ba-4d0b-b26b-774fc5475919.png" width="400"> | <img src="https://user-images.githubusercontent.com/26589915/175934064-4c35cae7-0130-4f56-90d8-80121ec4b12b.png" width="400"> |
+| :-----------------------------------: | :---------------------------------------: | :-------------------------------------: | :-------------------------------------: |
+
 ### Pakacages
 서버 (가장 외부 폴더)와 프론트 (내부의 frontend 폴더)로 구성.
 
